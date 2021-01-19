@@ -4,7 +4,7 @@
 ```bash
 wget https://secure.gnms.live/installernorme_01.1-1_all.deb
 sudo dpkg -i installernorme_01.1-1_all.deb 
-sudo norminetteinstalle
+sudo norminetteinstall
 ----------
 zsh to change to norminette compatible command line
 or if you are on bash execute norminette for your file.
