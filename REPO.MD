@@ -1,5 +1,5 @@
 ## install the norminette with the official repo of gnms
-add on your source file : gnms.list in /etc/apt/sources.list.d the file gnms.list and insert this line 
+add on your source file : gnms.list in /etc/apt/sources.list.d the file gnms.list contain thats
 ```
 deb [trusted=yes] https://repo.gnms.live/apt/ /
 ```
