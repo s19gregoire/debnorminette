@@ -17,7 +17,7 @@ apt-get update
 ```
 for remove 
 ```bash 
-apt-get remove installnorminette
+apt-get remove norminetteinstall
 ```
 for official repo :
 [42PARIS](https://github.com/42Paris/norminette)
